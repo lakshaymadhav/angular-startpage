@@ -1,0 +1,10 @@
+p {
+  font-family: Lato;
+}
+button {
+  color: aqua;
+  background-color: #000;
+  height: 30px;
+  width: 50px;
+  border-radius: 20px;
+}
