@@ -10,7 +10,7 @@ import { Component, VERSION } from "@angular/core";
   `
 })
 export class AppComponent {
-  name = "Angular " + VERSION.major;
+  name = "Angular ";
   clickMessage = "";
 
   work() {
